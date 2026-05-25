@@ -261,17 +261,173 @@ Explicitly excluded.
 
 ## Traceability
 
-Empty initially; populated during roadmap creation.
+Populated during roadmap creation 2026-05-25.
+
+**Phase legend:**
+- Phase 1 = MU Fundamentals End-to-End
+- Phase 2 = Sector-Aware Primary Panels (MU + IRM)
+- Phase 3 = Analyst + Sentiment + Statistical Forecast
+- Phase 4a = Disconfirmation + Macro + Earnings-Call Summary
+- Phase 4b = Cross-Cutting Differentiators
+- Phase 5 = ML Forecast + Packaging Hardening
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| _populated by roadmapper_ | — | — |
+| INFRA-01 | Phase 1 | Pending |
+| INFRA-02 | Phase 1 | Pending |
+| INFRA-03 | Phase 1 | Pending |
+| INFRA-04 | Phase 1 | Pending |
+| INFRA-05 | Phase 1 | Pending |
+| INFRA-06 | Phase 1 | Pending |
+| INFRA-07 | Phase 1 | Pending |
+| INFRA-08 | Phase 1 | Pending |
+| INFRA-09 | Phase 1 | Pending |
+| INFRA-10 | Phase 1 | Pending |
+| INFRA-11 | Phase 1 | Pending |
+| INFRA-12 | Phase 1 | Pending |
+| INFRA-13 | Phase 1 | Pending |
+| WATCH-01 | Phase 1 | Pending |
+| WATCH-02 | Phase 1 | Pending |
+| WATCH-03 | Phase 1 | Pending |
+| WATCH-04 | Phase 1 | Pending |
+| WATCH-05 | Phase 1 | Pending |
+| WATCH-06 | Phase 1 | Pending |
+| WATCH-07 | Phase 1 | Pending |
+| WATCH-08 | Phase 1 | Pending |
+| FUND-01 | Phase 1 | Pending |
+| FUND-02 | Phase 1 | Pending |
+| FUND-03 | Phase 1 | Pending |
+| FUND-04 | Phase 1 | Pending |
+| FUND-05 | Phase 1 | Pending |
+| FUND-06 | Phase 1 | Pending |
+| FUND-07 | Phase 1 | Pending |
+| FUND-08 | Phase 1 | Pending |
+| FUND-09 | Phase 1 | Pending |
+| FUND-10 | Phase 1 | Pending |
+| REIT-01 | Phase 2 | Pending |
+| REIT-02 | Phase 2 | Pending |
+| REIT-03 | Phase 2 | Pending |
+| REIT-04 | Phase 2 | Pending |
+| REIT-05 | Phase 2 | Pending |
+| REIT-06 | Phase 2 | Pending |
+| REIT-07 | Phase 2 | Pending |
+| REIT-08 | Phase 2 | Pending |
+| SEMI-01 | Phase 2 | Pending |
+| SEMI-02 | Phase 2 | Pending |
+| INS-01 | Phase 2 | Pending |
+| INS-02 | Phase 2 | Pending |
+| INS-03 | Phase 2 | Pending |
+| INS-04 | Phase 2 | Pending |
+| INS-05 | Phase 2 | Pending |
+| INS-06 | Phase 2 | Pending |
+| INS-07 | Phase 2 | Pending |
+| INS-08 | Phase 2 | Pending |
+| INS-09 | Phase 2 | Pending |
+| INS-10 | Phase 2 | Pending |
+| CAL-01 | Phase 2 | Pending |
+| CAL-02 | Phase 2 | Pending |
+| CAL-03 | Phase 2 | Pending |
+| CAL-04 | Phase 2 | Pending |
+| CAL-05 | Phase 2 | Pending |
+| CAL-06 | Phase 2 | Pending |
+| TECH-01 | Phase 2 | Pending |
+| TECH-02 | Phase 2 | Pending |
+| TECH-03 | Phase 2 | Pending |
+| TECH-04 | Phase 2 | Pending |
+| TECH-05 | Phase 2 | Pending |
+| TECH-06 | Phase 2 | Pending |
+| TECH-07 | Phase 2 | Pending |
+| TECH-08 | Phase 2 | Pending |
+| ANL-01 | Phase 3 | Pending |
+| ANL-02 | Phase 3 | Pending |
+| ANL-03 | Phase 3 | Pending |
+| SENT-01 | Phase 3 | Pending |
+| SENT-02 | Phase 3 | Pending |
+| SENT-03 | Phase 3 | Pending |
+| SENT-04 | Phase 3 | Pending |
+| SENT-05 | Phase 3 | Pending |
+| SENT-06 | Phase 3 | Pending |
+| SENT-07 | Phase 3 | Pending |
+| SENT-08 | Phase 3 | Pending |
+| SENT-09 | Phase 3 | Pending |
+| SENT-10 | Phase 3 | Pending |
+| FCST-01 | Phase 3 | Pending |
+| FCST-02 | Phase 3 | Pending |
+| FCST-03 | Phase 3 | Pending |
+| FCST-04 | Phase 3 | Pending |
+| FCST-05 | Phase 3 | Pending |
+| FCST-06 | Phase 3 | Pending |
+| FCST-07 | Phase 3 | Pending |
+| FCST-08 | Phase 3 | Pending |
+| FCST-09 | Phase 3 | Pending |
+| FCST-10 | Phase 3 | Pending |
+| FCST-11 | Phase 3 | Pending |
+| FCST-12 | Phase 3 | Pending |
+| FCST-13 | Phase 3 | Pending |
+| DISC-01 | Phase 4a | Pending |
+| DISC-02 | Phase 4a | Pending |
+| DISC-03 | Phase 4a | Pending |
+| DISC-04 | Phase 4a | Pending |
+| DISC-05 | Phase 4a | Pending |
+| DISC-06 | Phase 4a | Pending |
+| DISC-07 | Phase 4a | Pending |
+| DISC-08 | Phase 4a | Pending |
+| DISC-09 | Phase 4a | Pending |
+| MACRO-01 | Phase 4a | Pending |
+| MACRO-02 | Phase 4a | Pending |
+| MACRO-03 | Phase 4a | Pending |
+| MACRO-04 | Phase 4a | Pending |
+| MACRO-05 | Phase 4a | Pending |
+| MACRO-06 | Phase 4a | Pending |
+| MACRO-07 | Phase 4a | Pending |
+| MACRO-08 | Phase 4a | Pending |
+| SUM-01 | Phase 4a | Pending |
+| SUM-02 | Phase 4a | Pending |
+| SUM-03 | Phase 4a | Pending |
+| SUM-04 | Phase 4a | Pending |
+| SUM-05 | Phase 4a | Pending |
+| SUM-06 | Phase 4a | Pending |
+| SUM-07 | Phase 4a | Pending |
+| SUM-08 | Phase 4a | Pending |
+| SUM-09 | Phase 4a | Pending |
+| DIFF-01 | Phase 4b | Pending |
+| DIFF-02 | Phase 4b | Pending |
+| DIFF-03 | Phase 4b | Pending |
+| DIFF-04 | Phase 4b | Pending |
+| DIFF-05 | Phase 4b | Pending |
+| DIFF-06 | Phase 4b | Pending |
+| DIFF-07 | Phase 4b | Pending |
+| DIFF-08 | Phase 4b | Pending |
+| ML-01 | Phase 5 | Pending |
+| ML-02 | Phase 5 | Pending |
+| ML-03 | Phase 5 | Pending |
+| ML-04 | Phase 5 | Pending |
+| ML-05 | Phase 5 | Pending |
+| PKG-01 | Phase 5 | Pending |
+| PKG-02 | Phase 5 | Pending |
+| PKG-03 | Phase 5 | Pending |
+| PKG-04 | Phase 5 | Pending |
+| PKG-05 | Phase 5 | Pending |
+| PKG-06 | Phase 5 | Pending |
+| PKG-07 | Phase 5 | Pending |
 
 **Coverage:**
-- v1 requirements: _populated by roadmapper_
-- Mapped to phases: _populated by roadmapper_
-- Unmapped: _populated by roadmapper_
+- v1 requirements: 137 total
+- Mapped to phases: 137 (Phase 1: 31, Phase 2: 34, Phase 3: 26, Phase 4a: 26, Phase 4b: 8, Phase 5: 12)
+- Unmapped: 0
+
+**Per-phase requirement counts:**
+
+| Phase | Count | Categories |
+|-------|-------|------------|
+| Phase 1 — MU Fundamentals End-to-End | 31 | INFRA (13), WATCH (8), FUND (10) |
+| Phase 2 — Sector-Aware Primary Panels (MU + IRM) | 34 | REIT (8), SEMI (2), INS (10), CAL (6), TECH (8) |
+| Phase 3 — Analyst + Sentiment + Statistical Forecast | 26 | ANL (3), SENT (10), FCST (13) |
+| Phase 4a — Disconfirmation + Macro + Earnings-Call Summary | 26 | DISC (9), MACRO (8), SUM (9) |
+| Phase 4b — Cross-Cutting Differentiators | 8 | DIFF (8) |
+| Phase 5 — ML Forecast + Packaging Hardening | 12 | ML (5), PKG (7) |
+| **Total v1** | **137** | |
 
 ---
 *Requirements defined: 2026-05-25*
-*Last updated: 2026-05-25 after PROJECT-ANALYSIS.md re-prioritization*
+*Last updated: 2026-05-25 — traceability populated by roadmapper, 137/137 v1 requirements mapped to 6 phases*
